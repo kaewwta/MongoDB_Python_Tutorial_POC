@@ -39,7 +39,7 @@ Collection_Name.update_many({query},{"$set":{newvalues})
 ### Python MongoDB Delete Document
 	2 method delete_one({query}) ,delete_many({})
 
-###Python MongoDB Find/Read Document 
+### Python MongoDB Find/Read Document 
 	2 method Collection_Name.Find_one({query}) , Collection_Name.Find({})
 
 
