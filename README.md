@@ -46,3 +46,18 @@ Collection_Name.update_many({query},{"$set":{newvalues})
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
